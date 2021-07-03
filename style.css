@@ -65,7 +65,7 @@ img{
 }
 .showcase{
     grid-area:showcase;
-    background: url(../2.jpg);
+    background: url(2.jpg);
     min-height: 400px;
     background-size: cover;
     background-position: center;
