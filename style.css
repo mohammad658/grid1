@@ -147,7 +147,7 @@ footer{
     padding: 1rem;
 }
 /* Media Quires */
-@media(max-width:700px){
+@media(max-width:600px){
 .top-container{
     grid-template-areas: 
     'showcase showcase '
